@@ -67,8 +67,13 @@ class down(nn.Module):
 ```
 ### 結果比較
 * 原模型 3-fold 平均 Dice
+
 ![](https://i.imgur.com/7mRCCaE.png)
+
 * 加入 SE 及 Resnet backbone
+
 ![](https://i.imgur.com/VwWgnhG.png)
+
 * 加入 SE 及 Resnet backbone 後增加深度
+
 ![](https://i.imgur.com/Wv0opXS.png)
